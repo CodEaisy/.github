@@ -1,13 +1,4 @@
----
-name: Pull request
-about: submit updates to the the repository
-title: '[BUG|FEAT|STORY]-#<issue_number> <pr summary>'
-labels: 'in-progress'
-assignees: ''
-
----
-
-## Description
+# Description
 
 Add description of tasks completed in the PR
 
@@ -33,3 +24,7 @@ Add details on how this can be manually tested (you can simply drop link to affe
 - Browser Name and version:
 - Operating System and version (desktop or mobile):
 - Reporter's contact (Email or Phone):
+
+## Issue references
+
+Fixed|Closed|Resolved #-issue_number
