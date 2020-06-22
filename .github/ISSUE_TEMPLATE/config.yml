@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: CodEaisy Technical Support
+    email: techsupport@codeaisy.com
+    about: Please ask and answer questions here.
+  - name: CodEaisy Security
+    email: security@codeaisy.com
+    about: Please report security vulnerabilities here.
