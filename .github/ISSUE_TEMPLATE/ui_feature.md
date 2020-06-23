@@ -1,8 +1,8 @@
 ---
 name: Front-end Feature request
 about: Request new feature(s) in user-facing applications.
-title: 'STORY ***'
-labels: 'story', 'front-end'
+title: 'STORY '
+labels: 'story, front-end'
 assignees: ''
 
 ---
