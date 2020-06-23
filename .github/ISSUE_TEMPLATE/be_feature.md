@@ -1,8 +1,8 @@
 ---
 name: Backend Feature request
 about: Request new feature(s) in internal services.
-title: 'FEAT ***'
-labels: 'feature', 'back-end'
+title: 'FEAT '
+labels: 'feature, back-end'
 assignees: ''
 
 ---
