@@ -1,8 +1,8 @@
 ---
 name: Backend Feature improvement request
 about: Request modifications to existing feature(s) in internal services.
-title: 'FEAT ***'
-labels: 'feature', 'back-end'
+title: 'FEAT '
+labels: 'feature, back-end'
 assignees: ''
 
 ---
