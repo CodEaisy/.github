@@ -1,5 +1,5 @@
 ---
-name: User Interface Bug report
+name: Front-end Bug report
 about: Report bugs in user-facing client applications.
 title: 'BUG'
 labels: 'bug, front-end'
