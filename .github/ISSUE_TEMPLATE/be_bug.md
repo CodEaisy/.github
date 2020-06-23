@@ -1,7 +1,7 @@
 ---
 name: Backend Bug report
 about: Report bugs in internal services.
-title: 'BUG ***'
+title: 'BUG '
 labels: 'bug', 'back-end'
 assignees: ''
 
