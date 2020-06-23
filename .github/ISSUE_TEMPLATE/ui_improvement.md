@@ -1,8 +1,8 @@
 ---
 name: Front-end Feature improvement request
 about: Request improvement to existing feature(s) in user-facing applications.
-title: 'STORY ***'
-labels: 'story', 'front-end'
+title: 'STORY '
+labels: 'story, front-end'
 assignees: ''
 
 ---
